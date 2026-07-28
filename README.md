@@ -219,7 +219,7 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENSE) fil
 If you have any questions or comments about the project, if you find any broken links/errata, or if you're interested in contributing, feel free to reach out:
 
 - **Project Maintainer**: Emilios Richards
-- **Email**: github.com/EmiliosRichards
-- **GitHub Profile**: [EmiliosRichards](https://github.com/EmiliosRichards)
+- **GitHub**: [EmiliosRichards](https://github.com/EmiliosRichards)
+- **LinkedIn**: <!-- add your LinkedIn URL here -->
 
 ![Bye!](/Files/wavebye.png)
