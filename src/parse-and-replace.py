@@ -4,7 +4,7 @@ from pathlib import Path
 
 
 # Load the resampled coordinates
-resampled_folder_path = Path('data')
+resampled_folder_path = Path('Data')
 resampled_file_path = resampled_folder_path / 'resampled_coordinates.txt'
 resampled_data = pd.read_csv(resampled_file_path, delimiter='\t')
 resampled_coords = list(zip(resampled_data['latitude'], resampled_data['longitude'], resampled_data['distance_meters']))
