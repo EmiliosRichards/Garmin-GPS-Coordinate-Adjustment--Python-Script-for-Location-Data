@@ -220,6 +220,5 @@ If you have any questions or comments about the project, if you find any broken 
 
 - **Project Maintainer**: Emilios Richards
 - **GitHub**: [EmiliosRichards](https://github.com/EmiliosRichards)
-- **LinkedIn**: <!-- add your LinkedIn URL here -->
 
 ![Bye!](Files/wavebye.png)
