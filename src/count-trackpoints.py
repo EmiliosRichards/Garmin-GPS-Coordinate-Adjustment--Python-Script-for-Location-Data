@@ -3,7 +3,7 @@ from pathlib import Path
 
 # Read the latitude and longitude data from the txt file
 folder = Path('tcx')
-file = folder / 'activity_16486638003.tcx.txt'
+file = folder / 'activity_16486638003.tcx'
 
 def count_relevant_trackpoints(tcx_file_path):
     # Parse the TCX file
