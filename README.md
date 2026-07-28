@@ -4,7 +4,7 @@ Welcome! The following document details a small project working with XML, Interp
 
 # Document Contents 
 
-- [**Introduction**](#Introduction): Provides context to the problem. Reveals the requirements for a solution. 
+- [**Introduction**](#introduction): Provides context to the problem. Reveals the requirements for a solution. 
 - [**Initial Problem Solving**](#initial-problem-solving): Describes the GPS interference issues and their implications on running metrics.
 - [**Thought Process No1**](#thought-process-no1): Explores the initial idea of manually adjusting maps and introduces Garmin's TCX file format.
 - [**Thought Process No2**](#thought-process-no2): Shifts focus to automating the correction process using a Python script.
@@ -37,7 +37,7 @@ Due to the GPS interference, the incorrect coordinates it produced had several i
 
 Here's an example of my first run with the Garmin Fenix: 
 
-![Map-Example](/Files/stravaexample.png)
+![Map-Example](Files/stravaexample.png)
 
 Being unable to view the route you ran is admittedly annoying. But, of the three problems at hand, it is probably last in priority. However this project was prompted by a beautiful morning run that I could not see on Garmin Connect. Endorphins and adrenaline were pumping through my veins, logic had taken the backseat and the lack of a simple yet playful map displaying my route was not just an inconvenience, it was a cry for help! In need of a satisfying visual I fired up my laptop, opened my IDE, and got to work. To me, issue 3 was of paramount importance.
 
@@ -212,7 +212,7 @@ Thank you for reading this document! It was an enjoyable experience creating thi
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Contact Information
 
@@ -222,4 +222,4 @@ If you have any questions or comments about the project, if you find any broken 
 - **GitHub**: [EmiliosRichards](https://github.com/EmiliosRichards)
 - **LinkedIn**: <!-- add your LinkedIn URL here -->
 
-![Bye!](/Files/wavebye.png)
+![Bye!](Files/wavebye.png)
